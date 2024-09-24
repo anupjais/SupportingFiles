@@ -11,7 +11,7 @@
 			<property name="javax.persistence.jdbc.url"	value="jdbc:postgresql://localhost:5432/bank" />
 	<!-- 	<property name="javax.persistence.jdbc.url"	value="jdbc:postgresql://localhost:5432/edu" /> -->
 			<property name="javax.persistence.jdbc.user" 	value="postgres" />
-			<property name="javax.persistence.jdbc.password" value="Jaiswal#25" />
+			<property name="javax.persistence.jdbc.password" value="root" />
 			<property name="hibernate.dialect" 		value="org.hibernate.dialect.PostgreSQLDialect" />
 			<property name="hibernate.show_sql" 		value="false" />
 			<property name="hibernate.format_sql" 		value="true" />
