@@ -1,0 +1,6 @@
+//1. To lunch the mysql-server on terminal
+mysql -u root -p
+
+//2. To execute node/react files from terminal/vs_code terminal
+npm run dev
+
