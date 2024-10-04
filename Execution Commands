@@ -4,3 +4,8 @@ mysql -u root -p
 //2. To execute node/react files from terminal/vs_code terminal
 npm run dev
 
+//3. To initial update of MERN/MEAN stack
+  a. npm update
+  b. npm run dev
+* dev came from the package.json file
+
