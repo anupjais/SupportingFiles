@@ -35,7 +35,7 @@ Scaffolding project in /Users/anupjaiswal/Desktop/React/BasicVite...
                               Done. Now run:
                               
                                 cd BasicVite
-                                npm install
+                                npm install / npm i
                                 npm run dev
 
  ➜  Local:   http://localhost:5173/
