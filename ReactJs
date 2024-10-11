@@ -1,0 +1,51 @@
+                    First way
+For creating an App : "npx create-react-app basic"
+npm start/npm run start
+    Starts the development server.
+
+  npm run build
+    Bundles the app into static files for production.
+
+  npm test
+    Starts the test runner.
+
+  npm run eject
+    Removes this tool and copies build dependencies, configuration files
+    and scripts into the app directory. If you do this, you can’t go back!
+
+We suggest that you begin by typing:
+
+  cd basic
+  npm start
+
+"Happy hacking!"
+
+                      Second way
+
+
+For creating an App : "npm create vite@latest"
+
+Project name: … BasicVite
+✔ Package name: … basicvite
+✔ Select a framework: › React
+✔ Select a variant: › JavaScript
+
+Scaffolding project in /Users/anupjaiswal/Desktop/React/BasicVite...
+
+                              Done. Now run:
+                              
+                                cd BasicVite
+                                npm install
+                                npm run dev
+
+ ➜  Local:   http://localhost:5173/
+  ➜  Network: use --host to expose
+  ➜  press h + enter to show help
+
+  Shortcuts
+  press r + enter to restart the server
+  press u + enter to show server url
+  press o + enter to open in browser
+  press c + enter to clear console
+  press q + enter to quit
+
