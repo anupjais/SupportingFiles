@@ -3,7 +3,7 @@
 1. npx react-native init appname
 2. cd appname 
 3. npx react-native run-android
-
+// Note: from the node 23.0.0 the "init" is depricated and it's not working
 
   2nd WAY
 1. npx create-expo-app@latest
@@ -24,7 +24,9 @@ local.properties
 /Users/anupjaiswal/Library/Android/sdk
 
 
-
+Pre-requisite
+1. jdk 17-20
+2. node v 20.0.0
 
 
 
