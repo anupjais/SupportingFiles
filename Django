@@ -1,0 +1,74 @@
+// https://pypi.org/project/uv/  Anup@123
+// https://www.djangoproject.com/download/
+// https://jinja.palletsprojects.com/en/stable/
+
+
+1. pip install uv // Install it
+2. uv venv
+3. source .venv/bin/activate // Activate with: // For mac
+4. uv pip install Django 
+5. django-admin startproject chaiAurChai
+6. cd chaiAurChai
+7. python manage.py runserver or python manage.py runserver 8001
+
+
+
+
+
+
+
+
+
+
+
+// Essentials
+Create "templates" and "static" folders inside the project
+templates: for HTML
+static: for CSS, JS
+
+
+// Setting
+1. import os
+2. STATICFILES_DIRS = [os.path.join(BASE_DIR, 'static')] // below the STATIC_URL
+3. add templates in TEMPLATES like "'DIRS': ['templates'],"
+
+// views.py
+
+def home(request):
+    # return HttpResponse("Good Evening! You're at Home")
+    return render(request, 'website/index.html')
+
+these are the things will execute
+
+
+
+
+              Process to insert Tailwind inside Django
+1. uv pip install django-tailwind
+
+python -m ensurepip --upgrade
+python -m pip install --upgrade pip
+
+2. uv pip install 'django-tailwind[reload]' // for the hot reload
+or pip install 'django-tailwind[reload]' // either change the theme name or enter for defalt
+3. python manage.py tailwind install
+4. python manage.py tailwind start // in other tab
+5. python manage.py runserver or python manage.py runserver 8001
+
+
+
+
+//              Warnning 
+1. python manage.py migrate
+2. python manage.py runserver or python manage.py runserver 8001
+
+
+//          To create super-user
+1. python manage.py createsupeuser
+  Username (leave blank to use 'anupjaiswal'): Mistri
+  Email address: examsample0@gmail.com
+  Password: 
+  Password (again):
+
+//          Images
+1. python -m pip install Pillow
