@@ -47,6 +47,7 @@ these are the things will execute
 1. uv pip install django-tailwind
 
 python -m ensurepip --upgrade
+or
 python -m pip install --upgrade pip
 
 2. uv pip install 'django-tailwind[reload]' // for the hot reload
