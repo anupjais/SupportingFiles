@@ -74,3 +74,7 @@ or pip install 'django-tailwind[reload]' // either change the theme name or ente
 
 //          Images
 1. python -m pip install Pillow
+
+
+// For the utilities
+pip freeze > requirements.txt 
