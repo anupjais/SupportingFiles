@@ -78,3 +78,8 @@ or pip install 'django-tailwind[reload]' // either change the theme name or ente
 
 // For the utilities
 pip freeze > requirements.txt 
+
+
+//         Migrations
+1. python manage.py makemigrations chai
+2. python manage.py migrate
