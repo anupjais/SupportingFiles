@@ -1,0 +1,23 @@
+1. Settings -> Trackpad -> Tap to click
+2. Clean the dock
+3. Delete all unnecessary App from the Applications
+4. Finder -> Settings; from the top of the Menu-bar
+5. Command + Shift + . -> To show/hide the hidden gems 😂
+
+6. Create a Developer folder to see the Apple's Magic
+7. Turn off notifications
+8. brew install : /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+9. Don't forget to the Next Step at the Terminal, Just copy -> paste -> return/Enter
+10. Customize the .zshrc from Terminal: 
+      a. nano ~/.zshrc
+      b. PROMPT='%n:~$'  or PROMPT='customusername~$'  or https://www.makeuseof.com/customize-zsh-prompt-macos-terminal/  furthur exploration
+11. Install java,node,python3
+12. Install Miniconda or Anaconda; use brew
+13. Quit the Terminal and relaunch it and enter "conda env list"
+14. Run 'conda init' before 'conda deactivate'  TODAY IS 14th FEB 2025
+
+15. Install Docker
+16. Configure SSH and GPG keys for the GitHub  : https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
+    a. ssh-keygen -t ed25519 -C "your_email@example.com"  or  ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
+    b. pbcopy < ~/.ssh/id_rsa.pub
+
