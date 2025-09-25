@@ -1,0 +1,1042 @@
+anupjaiswal@MBP React-Native % history 0
+    1  java CharString.java
+    2  java CharString.java
+    3  java CharString.java
+    4  java CharString.java
+    5  java CharString.java
+    6  java CharString.java
+    7  java CharString.java
+    8  java CharString.java
+    9  java CharString.java
+   10  java CharString.java
+   11  java CharString.java
+   12  javap java.util.Arrays
+   13  javap java.util.Arrays
+   14  java CharString.java
+   15  java CharString.java
+   16  java CharString.java
+   17  java CharString.java
+   18  java CharString.java
+   19  java ByteString.java
+   20  java ByteString.java
+   21  java CharString.java
+   22  java ByteString.java
+   23  java CharString.java
+   24  java ByteString.java
+   25  java ByteString.java
+   26  java ByteString.java
+   27  java ByteString.java
+   28  java ByteString.java
+   29  java java.langStringBuffer
+   30  java java.lang.StringBuffer
+   31  javap java.lang.StringBuffer
+   32  javap java.lang.AbstractStringBuilder
+   33  javap java.lang.StringBuilder
+   34  javap java.lang.String
+   35  cd Desktop/JavaRevision/Update/Array
+   36  java IndexOff.java
+   37  java IndexOff.java
+   38  java IndexOff.java
+   39  java IndexOff.java
+   40  java IndexOff.java
+   41  java IndexOff.java
+   42  java IndexOff.java
+   43  java IndexOff.java
+   44  java IndexOff.java
+   45  java IndexOff.java
+   46  java IndexOff.java
+   47  java IndexOff.java
+   48  java IndexOff.java
+   49  java IndexOff.java
+   50  java IndexOff.java
+   51  java IndexOff.java
+   52  java IndexOff.java
+   53  java IndexOff.java
+   54  java IndexOff.java
+   55  javap java.lang.String
+   56  java IndexOff.java
+   57  java IndexOff.java
+   58  java IndexOff.java
+   59  java IndexOff.java
+   60  java IndexOff.java
+   61  java IndexOff.java
+   62  java IndexOff.java
+   63  java IndexOff.java
+   64  java IndexOff.java
+   65  java IndexOff.java
+   66  java IndexOff.java
+   67  java IndexOff.java
+   68  java IndexOff.java
+   69  java IndexOff.java
+   70  java IndexOff.java
+   71  cd ..\..
+   72  cd ../..
+   73  pwd
+   74  ls
+   75  cd Update
+   76  cd Desktop/JavaRevision/Update
+   77  cd Array
+   78  javap java.lang.String
+   79  java Example64.java
+   80  cd..
+   81  cd ..
+   82  cd String
+   83  js
+   84  ls
+   85  java IndexOfStart.java
+   86  java IndexOfStart.java
+   87  java IndexOfStart.java
+   88  java IndexOfStart.java
+   89  java IndexOfStart.java
+   90  java IndexOfStart.java
+   91  java IndexOfStart.java
+   92  java IndexOfStart.java
+   93  java IndexOfStart.java
+   94  java IndexOfStart.java
+   95  java IndexOfStart.java
+   96  java IndexOfStart.java
+   97  java IndexOfStart.java
+   98  java IndexOfStart.java
+   99  java IndexOfStart.java
+  100  java IndexOfStart.java
+  101  java IndexOfStart.java
+  102  java IndexOfStart.java
+  103  java Demo.java
+  104  java Demo.java
+  105  java Demo.java
+  106  java Demo.java
+  107  java Demo.java
+  108  java Demo.java
+  109  java Demo.java
+  110  java Demo.java
+  111  java Demo.java
+  112  java Demo.java
+  113  java Demo.java
+  114  java Demo.java
+  115  java Demo.java
+  116  java Demo.java
+  117  java Demo.java
+  118  java Demo.java
+  119  [A
+  120  java Demo.java
+  121  javap java.lang.System
+  122  java Demo.java
+  123  java arr[]={10,5,7,88,19}, k=3
+  124  dart "/Users/anupjaiswal/Desktop/Flutter/demo.dart"
+  125  cd Desktop/JavaRevision/Update/Array
+  126  ls
+  127  java Example64.java
+  128  javap java.io.Console
+  129  cd ..
+  130  cd String
+  131  ls
+  132  java Demo.java
+  133  java Demo.java
+  134  java Demo.java
+  135  java Demo.java
+  136  java Demo.java
+  137  java Demo.java
+  138  java Demo.java
+  139  java Demo.java
+  140  java Demo.java
+  141  java Demo.java
+  142  java Demo.java
+  143  java Demo.java
+  144  java Demo.java
+  145  javap java.io
+  146  jar tf $JAVA_HOME/jre/lib/rt.jar | grep java/util
+  147  jar --list --file $JAVA_HOME/jmods/java.base.jmod | grep java/util\n
+  148  jar --list --file $JAVA_HOME/jmods/java.base.jmod | grep java/util | sed 's#.*/##' | sed 's/.class$//'\n
+  149  jar --list --java.util
+  150  jar --list java.util
+  151  jar --list --file $JAVA_HOME/jmods/java.base.jmod | grep java/util | grep '\.class' | sed 's#.*/##' | sed 's/.class$//' | sort -u\n
+  152  jar --list --file $JAVA_HOME/jmods/java.base.jmod | grep java/util | grep '\.class' | sed 's#.*/##' | sed 's/.class$//' | sort -u\n
+  153  echo $JAVA_HOME\n
+  154  echo $JAVA_HOME
+  155  java --version
+  156  ls $JAVA_HOME/jmods/java.base.jmod\n
+  157  which java\n
+  158  ls -l $(which java)\n
+  159  /usr/libexec/java_home -V\n
+  160  export JAVA_HOME="/Library/Java/JavaVirtualMachines/jdk-24.jdk/Contents/Home"
+  161  echo $JAVA_HOME
+  162  jar --list --file $JAVA_HOME/jmods/java.base.jmod \\n| grep '^java/util/.*\.class$' \\n| sed 's#.*/##' \\n| sed 's/.class$//' \\n| sort -u\n
+  163  jar --list --file $JAVA_HOME/jmods/java.base.jmod \\n| grep '^java/util/.*\.class$' \\n| wc -l\n
+  164  ls -lh $JAVA_HOME/jmods/java.base.jmod
+  165  python -u "/Users/anupjaiswal/Desktop/Python/Pdfs/render_pdf.py"
+  166  python3
+  167  pip3 install fpdf
+  168  python3 -m pip install fpdf
+  169  pipx install fpdf
+  170  pipx3 install fpdf
+  171  pwd
+  172  history
+  173  which python
+  174  which python3
+  175  python3 -m pip install fpdf
+  176  python3 -m pip3 install fpdf
+  177  python3 -m pipx install fpdf
+  178  python3 -m pipx install fpdf
+  179  python3 -m ensurepip --upgrade\npython3 -m pip install --upgrade pip\npython3 -m pip install fpdf\n
+  180  /opt/homebrew/bin/python3.13 -m ensurepip\n/opt/homebrew/bin/python3.13 -m pip install fpdf\n
+  181  source Pdfs
+  182  source myenv/bin/activate
+  183  ls -l\n
+  184  /opt/homebrew/bin/python3.13 -m venv myenv\n
+  185  ls -l\n
+  186  ls myenv/bin/activate
+  187  source myenv/bin/activate
+  188  pip install fpdf\n
+  189  pip install --upgrade pip
+  190  ls
+  191  cd Pdfs
+  192  ls
+  193  python render_pdf.py
+  194  python render_pdf.py
+  195  deactivate
+  196  JAVAP java.lang.StringBuilder
+  197  cd
+  198  cd  Downloads
+  199  java FlappyBird.jar
+  200  java -jar FlappyBird.jar
+  201  javap java.lang.String
+  202  javap java.lang.StringBuffer
+  203  ls -lh $JAVA_HOME/jmods/java.base.jmod
+  204  echo "$JAVA_HOME"\n
+  205  export JAVA_HOME=/Library/Java/JavaVirtualMachines/jdk-24.jdk/Contents/Home
+  206  echo "$JAVA_HOME"\n
+  207  ls -lh $JAVA_HOME/jmods/java.base.jmod
+  208  ls -l $JAVA_HOME\n
+  209  find /Library/Java/JavaVirtualMachines/jdk-24.jdk/Contents/Home -name "java.base.jmod"\n
+  210  find $JAVA_HOME -type f -name '*.class' | grep 'java/util'\n
+  211  java --version
+  212  jar --list --file $JAVA_HOME/jmods/java.base.jmod \\n| grep '^classes/java/util/.*\.class$' \\n| sed 's#.*/##' \\n| sed 's/.class$//' \\n| sort -u\n
+  213  jar --list --file $JAVA_HOME/jmods/java.base.jmod \\n| grep '^classes/java/io/.*\.class$' \\n| sed 's#.*/##' \\n| sed 's/.class$//' \\n| sort -u\n
+  214  jar --list --file $JAVA_HOME/jmods/java.base.jmod \\n| grep '^classes/java/io/.*\.class$' \\n| sed 's#.*/##' \\n| sed 's/.class$//' \\n| sort -u\n
+  215  jar --list --file $JAVA_HOME/jmods/java.base.jmod \\n| grep '^classes/java/io/.*\.class$' \\n| sed 's#.*/##' \\n| sed 's/.class$//' \\n| sort -u\n
+  216  javap java.lang.String
+  217  cd Desktop/JavaRevision/Update/String
+  218  java IndexOfStart.java
+  219  java IndexOfStart.java
+  220  java IndexOfStart.java
+  221  java IndexOfStart.java
+  222  javac IndexOfStart.java
+  223  java IndexOfStart.java
+  224  java IndexOfStart.java
+  225  java IndexOfStart.java
+  226  java IndexOfStart.java
+  227  java IndexOfStart.java
+  228  pwd
+  229  npx create-next-app@latest .
+  230  npm install -g npm@11.4.2
+  231  npx create-next-app@latest .
+  232  npm i bcrypt mongoose
+  233  npm uninstall bcrypt
+  234  npm i bcryptjs
+  235  npm i @types/bcryptjs
+  236  npm i next-auth
+  237  npm install @imagekit/next
+  238  npm run dev
+  239  pwd
+  240  cd Desktop/
+  241  mkdir NextFullStack
+  242  cd NextFullStack/
+  243  ls
+  244  git clone https://github.com/hiteshchoudhary/Nextjs-imagekit-chaicode.git
+  245  ls
+  246  cd Nextjs-imagekit-chaicode/
+  247  ls
+  248  npm i
+  249  npm run dev
+  250  pwd
+  251  cd Desktop/NextFullStack/Nextjs-imagekit-chaicode/
+  252  ls
+  253  pwd
+  254  npm run dev
+  255  npm run dev
+  256  npm run dev
+  257  npm run dev
+  258  export OPENAI_API_KEY=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\n
+  259  cd Desktop/JavaRevision/Update
+  260  java Demo.java
+  261  ls
+  262  javac Demo.java
+  263  javap -c Demo
+  264  java Demo.java
+  265  java Demo.java
+  266  java Demo.java
+  267  rm Demo.class
+  268  ls
+  269  javap java.lang.System()
+  270  javap java.lang.System
+  271  cd Desktop/JavaRevision/Update/Array
+  272  java BinarySearchlah.java
+  273  java BinarySearchlah.java
+  274  java BinarySearchlah.java
+  275  java BinarySearchlah.java
+  276  java BinarySearchlah.java
+  277  java BinarySearchlah.java
+  278  java BinarySearchlah.java
+  279  java BinarySearchlah.java
+  280  pwd
+  281  python3 demo.py
+  282  python3 demo.py
+  283  python --verson
+  284  python3 --verson
+  285  python3 --version
+  286  python3
+  287  pwd
+  288  python3 demo.py
+  289  python3 demo.py
+  290  python3 demo.py
+  291  python3 demo.py
+  292  python3 demo.py
+  293  python3 demo.py
+  294  python3 demo.py
+  295  python3 demo.py
+  296  python3 demo.py
+  297  python3 exercise_set.py
+  298  python3 exercise_dic.py
+  299  python3 exercise_dic.py
+  300  python3 exercise_dic.py
+  301  python3 exercise_dic.py
+  302  pwd
+  303  cd datatypes
+  304  python3 chapter_11.py
+  305  pwd
+  306  python3 list.py
+  307  python3 list.py
+  308  pwd
+  309  python3 disc_case.py
+  310  python3 disc_case.py
+  311  pwd
+  312  python3 string_reverse_rec.py
+  313  python3 string_reverse_rec.py
+  314  python3 lambda_map.py
+  315  python3 lambda_map.py
+  316  python3 lambda_map.py
+  317  python3 lambda_map.py
+  318  python3 lambda_map.py
+  319  python3 lambda_map.py
+  320  python3 list_compre.py
+  321  python3 list_compre.py
+  322  python3 set_compre.py
+  323  python3 set_compre.py
+  324  python3 set_compre.py
+  325  python3 set_compre.py
+  326  python3 set_compre.py
+  327  python3 set_compre.py
+  328  python3 set_compre.py
+  329  python3 set_recipe_compre.py
+  330  python3 set_recipe_compre.py
+  331  python3 dict_compre.py
+  332  python3 dict_compre.py
+  333  python3 generator_compre.py
+  334  python3 generator_compre.py
+  335  python3 assignment.py
+  336  python3 assignment.py
+  337  python3 assignment.py
+  338  python3 assignment.py
+  339  python3 assignment.py
+  340  python3 assignment.py
+  341  python3 assignment.py
+  342  python3 assignment.py
+  343  python3 assignment.py
+  344  python3 assignment.py
+  345  /opt/homebrew/bin/python3
+  346  /opt/homebrew/bin/python3
+  347  python3 basic.py
+  348  python3 basic.py
+  349  python3 basic.py
+  350  python3 basic.py
+  351  python3 infinite_gen.py
+  352  python3 infinite_gen.py
+  353  python3 infinite_gen.py
+  354  python3 infinite_gen.py
+  355  python3 send_data.py
+  356  python3 send_data.py
+  357  python3 close_generator.py
+  358  python3 close.py
+  359  python3 close.py
+  360  python3 close.py
+  361  python3 close.py
+  362  pwd
+  363  /opt/homebrew/bin/python3
+  364  /opt/homebrew/bin/python3
+  365  python3 basic.py
+  366  python3 basic.py
+  367  python3 basic.py
+  368  python3 basic.py
+  369  python3 basic.py
+  370  python3 basic.py
+  371  python3 basic.py
+  372  python3 logger.py
+  373  python3 logger.py
+  374  python3 logger.py
+  375  python3 auth_decorator.py
+  376  python3 auth_decorator.py
+  377  python3 auth_decorator.py
+  378  python3 auth_decorator.py
+  379  python3 Chai.py
+  380  python3 Chai.py
+  381  python3 01_self_intro.py
+  382  python3 01_self_intro.py
+  383  python3 02_stylish_bio.py
+  384  python3 02_stylish_bio.py
+  385  python3 03_bil_spliter.py
+  386  python3 04
+  387  python3 04_minutes_alive_calculator.py
+  388  python3 04_minutes_alive_calculator.py
+  389  python3 01_self_intro.py
+  390  python3 02_stylish_bio.py
+  391  python3 02_stylish_bio.py
+  392  python3 04_minutes_alive_calculator.py
+  393  python3 05_emoji_enhancer.py
+  394  python3 05_emoji_enhancer.py
+  395  python3 05_emoji_enhancer.py
+  396  python3 05_emoji_enhancer.py
+  397  python3 05_emoji_enhancer.py
+  398  python3 06_daily_learning_journal.py
+  399  python3 06_daily_learning_journal.py
+  400  python3 07_task_manager.py
+  401  python3 07_task_manager.py
+  402  python3 07_task_manager.py
+  403  python3 07_task_manager.py
+  404  python3 07_task_manager.py
+  405  python3 07_task_manager.py
+  406  python3 07_task_manager.py
+  407  python3 07_task_manager.py
+  408  python3 08_password_strength_check.py
+  409  python3 08_password_strength_check.py
+  410  python3 08_password_strength_check.py
+  411  python3 08_password_strength_check.py
+  412  python3 08_password_strength_check.py
+  413  python3 08_password_strength_check.py
+  414  python3 08_password_strength_check.py
+  415  python3 08_password_strength_check.py
+  416  python3 09_coutdown.py
+  417  python3 09_coutdown.py
+  418  python3 10_ceaser_cipher.py
+  419  python3 10_ceaser_cipher.py
+  420  python3 10_ceaser_cipher.py
+  421  python3 10_ceaser_cipher.py
+  422  python3 10_ceaser_cipher.py
+  423  python3 10_ceaser_cipher.py
+  424  python3 10_ceaser_cipher.py
+  425  python3 10_ceaser_cipher.py
+  426  python3 10_ceaser_cipher.py
+  427  python3 10_ceaser_cipher.py
+  428  python3 10_ceaser_cipher.py
+  429  python3 10_ceaser_cipher.py
+  430  python3 10_ceaser_cipher.py
+  431  python3 10_ceaser_cipher.py
+  432  python3 11_friendship_score.py
+  433  python3 11_friendship_score.py
+  434  python3 11_friendship_score.py
+  435  python3 11_friendship_score.py
+  436  python3 11_friendship_score.py
+  437  python3 11_friendship_score.py
+  438  python3 -m venv venv
+  439  source venv/bin/activate
+  440  pip install --upgrade pip
+  441  pwd
+  442  cd ..
+  443  ls
+  444  cd 02_data_handling
+  445  ls
+  446  source -m venv/activate
+  447  source -m venv/bin/activate
+  448  source -m venv/bin/activate
+  449  python3 01_csv_contact_book.py
+  450  python3 01_csv_contact_book.py
+  451  python3 01_csv_contact_book.py
+  452  python3 01_csv_contact_book.py
+  453  python3 01_csv_contact_book.py
+  454  python3 01_csv_contact_book.py
+  455  python3 01_csv_contact_book.py
+  456  python3 01_csv_contact_book.py
+  457  source -m venv/bin/activate
+  458  source venv/bin/activate\n
+  459  python3 --version\n
+  460  python 02_student_mark_analyser.py
+  461  python 02_student_mark_analyser.py
+  462  python 02_student_mark_analyser.py
+  463  python 03_movie_tracker_json.py
+  464  python 03_movie_tracker_json.py
+  465  python 03_movie_tracker_json.py
+  466  python 03_movie_tracker_json.py
+  467  python 03_movie_tracker_json.py
+  468  python 03_movie_tracker_json.py
+  469  python 03_movie_tracker_json.py
+  470  python 03_movie_tracker_json.py
+  471  source venv/bin/activate
+  472  pip install requests
+  473  pip install request
+  474  pip
+  475  pip install requests
+  476  which python\n
+  477  which python3
+  478  which pip
+  479  which pip3
+  480  python -m ensurepip --upgrade
+  481  rm -rf venv
+  482  deactivate
+  483  rm -rf venv
+  484  python3 -m venv venv
+  485  source venv/bin/activate
+  486  python -m pip install --upgrade pip
+  487  which pip
+  488  pip install requests
+  489  brew reinstall python
+  490  which python
+  491  which python3
+  492  python 04_realtime_weather_logger_api.py
+  493  python 04_realtime_weather_logger_api.py
+  494  python 04_realtime_weather_logger_api.py
+  495  python 04_realtime_weather_logger_api.py
+  496  python 04_realtime_weather_logger_api.py
+  497  python 04_realtime_weather_logger_api.py
+  498  python 04_realtime_weather_logger_api.py
+  499  python 04_realtime_weather_logger_api.py
+  500  python 04_realtime_weather_logger_api.py
+  501  python 04_realtime_weather_logger_api.py
+  502  python 04_realtime_weather_logger_api.py
+  503  python 04_realtime_weather_logger_api.py
+  504  python 04_realtime_weather_logger_api.py
+  505  python 04_realtime_weather_logger_api.py
+  506  python 04_realtime_weather_logger_api.py
+  507  python 04_realtime_weather_logger_api.py
+  508  python 04_realtime_weather_logger_api.py
+  509  /opt/homebrew/bin/python3
+  510  pwd
+  511  source venv/bin/activate
+  512  pip install matplotlib
+  513  python 05_graph_matplotlib.py
+  514  python 05_graph_matplotlib.py
+  515  python 06_json_csv_convert.py
+  516  python 06_json_csv_convert.py
+  517  python 06_json_csv_convert.py
+  518  python 07_csv_to_json.py
+  519  python 07_csv_to_json.py
+  520  python 07_csv_to_json.py
+  521  python 07_csv_to_json.py
+  522  python 07_csv_to_json.py
+  523  python 07_csv_to_json.py
+  524  python 07_csv_to_json.py
+  525  python 07_csv_to_json.py
+  526  python 07_csv_to_json.py
+  527  python 08_flatten_json.py
+  528  python 08_flatten_json.py
+  529  python 08_flatten_json.py
+  530  python 08_flatten_json.py
+  531  python 08_flatten_json.py
+  532  python 08_flatten_json.py
+  533  python 08_flatten_json.py
+  534  python 09_secure_offline_password_vault.py
+  535  python 09_secure_offline_password_vault.py
+  536  python 09_secure_offline_password_vault.py
+  537  python 09_secure_offline_password_vault.py
+  538  pip install cryptography
+  539  \npip install cryptography
+  540  python 10_cryptography_encryption.py
+  541  python 10_cryptography_encryption.py
+  542  python 10_cryptography_encryption.py
+  543  python 10_cryptography_encryption.py
+  544  python 10_cryptography_encryption.py
+  545  python 10_cryptography_encryption.py
+  546  python 10_cryptography_encryption.py
+  547  python 10_cryptography_encryption.py
+  548  python 10_cryptography_encryption.py
+  549  source /Users/anupjaiswal/Desktop/PFSD-Udemy/project_code/03_web_scrapping/.venv/bin/activate
+  550  /Users/anupjaiswal/Desktop/PFSD-Udemy/project_code/03_web_scrapping/.venv/bin/python
+  551  source /Users/anupjaiswal/Desktop/PFSD-Udemy/project_code/03_web_scrapping/.venv/bin/activate
+  552  /Users/anupjaiswal/Desktop/PFSD-Udemy/project_code/03_web_scrapping/.venv/bin/python
+  553  source /Users/anupjaiswal/Desktop/PFSD-Udemy/project_code/03_web_scrapping/.venv/bin/activate
+  554  /Users/anupjaiswal/Desktop/PFSD-Udemy/project_code/03_web_scrapping/.venv/bin/python
+  555  python3 -m venv .venv
+  556  source .venv/bin/activate
+  557  pwd
+  558  pip install requests
+  559  pip install --upgrade pip
+  560  pip install beautifulsoup4
+  561  python 01_wiki_heading.py
+  562  python 01_wiki_heading.py
+  563  python 01_wiki_heading.py
+  564  python 01_wiki_heading.py
+  565  python 02_save_hacker_news_csv.py
+  566  python 02_save_hacker_news_csv.py
+  567  python 02_save_hacker_news_csv.py
+  568  python 02_save_hacker_news_csv.py
+  569  python 01_scrab_wiki_heading.py
+  570  python 01_scrab_wiki_heading.py
+  571  python 01_scrab_wiki_heading.py
+  572  python 01_scrab_wiki_heading.py
+  573  python 01_scrab_wiki_heading.py
+  574  python 01_scrab_wiki_heading.py
+  575  python 01_scrab_wiki_heading.py
+  576  python 02_save_hacker_news_csv.py
+  577  python 02_save_hacker_news_csv.py
+  578  python 03_multi_page_data_scraping.py
+  579  python 03_multi_page_data_scraping.py
+  580  python 03_multi_page_data_scraping.py
+  581  python 03_multi_page_data_scraping.py
+  582  python 03_multi_page_data_scraping.py
+  583  python 03_multi_page_data_scraping.py
+  584  python 04
+  585  python 04_download_stream_img.py
+  586  python 04_download_stream_img.py
+  587  python 04_download_stream_img.py
+  588  pip install wget
+  589  python 05_scrab_and_download_anything_with_wget.py
+  590  pip install pillow
+  591  python 06_generate_img_with_quote.py
+  592  python 06_generate_img_with_quote.py
+  593  python 06_generate_img_with_quote.py
+  594  python 06_generate_img_with_quote.py
+  595  python 06_generate_img_with_quote.py
+  596  python 06_generate_img_with_quote.py
+  597  python 06_generate_img_with_quote.py
+  598  python 06_generate_img_with_quote.py
+  599  python 06_generate_img_with_quote.py
+  600  python 06_generate_img_with_quote.py
+  601  python 06_generate_img_with_quote.py
+  602  python 06_generate_img_with_quote.py
+  603  python 06_generate_img_with_quote.py
+  604  python 06_generate_img_with_quote.py
+  605  python demo.py
+  606  python demo.py
+  607  python demo.py
+  608  python demo.py
+  609  python 06_generate_img_with_quote.py
+  610  python 06_generate_img_with_quote.py
+  611  python 06_generate_img_with_quote.py
+  612  python 06_generate_img_with_quote.py
+  613  python 06_generate_img_with_quote.py
+  614  python 06_generate_img_with_quote.py
+  615  python 06_generate_img_with_quote.py
+  616  python 07_crypto_price_tracker_graph.py
+  617  pip install matplotlib
+  618  python 07_crypto_price_tracker_graph.py
+  619  python 07_crypto_price_tracker_graph.py
+  620  python 07_crypto_price_tracker_graph.py
+  621  python 07_crypto_price_tracker_graph.py
+  622  python 07_crypto_price_tracker_graph.py
+  623  python 07_crypto_price_tracker_graph.py
+  624  python 07_crypto_price_tracker_graph.py
+  625  python 07_crypto_price_tracker_graph.py
+  626  pip install schedule
+  627  python 08_task_on_hourly.py
+  628  python 09_sqllite_db.py
+  629  python 09_sqllite_db.py
+  630  python 09_sqllite_db.py
+  631  python 09_sqllite_db.py
+  632  python 09_sqllite_db.py
+  633  python 09_sqllite_db.py
+  634  python 09_sqllite_db.py
+  635  python 09_sqllite_db.py
+  636  pip install PyMuPDF
+  637  python 10_read_pdf_with_pymupdf.py
+  638  deactivate
+  639  source /Users/anupjaiswal/Desktop/PFSD-Udemy/project_code/03_web_scrapping/.venv/bin/activate
+  640  pwd
+  641  deactivate
+  642  python3 -m venv .automate
+  643  source .automate/bin/activate
+  644  pwd
+  645  python 01_own_file_organizer.py
+  646  python 01_own_file_organizer.py
+  647  python 01_own_file_organizer.py
+  648  python 01_own_file_organizer.py
+  649  python 01_own_file_organizer.py
+  650  python 01_own_file_organizer.py
+  651  pytho 02_trip_photo_organizer.py
+  652  python 02_trip_photo_organizer.py
+  653  python 02_trip_photo_organizer.py
+  654  python 02_trip_photo_organizer.py
+  655  pip install watchdog
+  656  pip install --upgrade pip
+  657  python 03_realtime_monitering_watchdog.py
+  658  python 03_realtime_monitering_watchdog.py
+  659  python 03_realtime_monitering_watchdog.py
+  660  pip install psutil
+  661  python 04_realime_systemm_monitering.py
+  662  python 04_realime_systemm_monitering.py
+  663  python 04_realime_systemm_monitering.py
+  664  pip install rich
+  665  python 04_realime_systemm_monitering.py
+  666  python 04_realime_systemm_monitering.py
+  667  deactivate
+  668  source /Users/anupjaiswal/Desktop/PFSD-Udemy/project_code/05_data_science_projects/ds_env/bin/activate
+  669  /Users/anupjaiswal/Desktop/PFSD-Udemy/project_code/05_data_science_projects/ds_env/bin/python
+  670  source /Users/anupjaiswal/Desktop/PFSD-Udemy/project_code/04_automation_projects/.automate/bin/activate
+  671  de
+  672  deactivate
+  673  python -m venv ds_env
+  674  source ds_env/bin/activate
+  675  pwd
+  676  pip install --upgrade pip
+  677  pip install numpy pandas
+  678  pip install numpy
+  679  python 02_generation_own_dataset_numpy_panda.py
+  680  pip install scikit-learn
+  681  pip install matplotliob
+  682  pip install matplotlib
+  683  python 03_linear_regression.py
+  684  python 03_linear_regression.py
+  685  python 03_linear_regression.py
+  686  pip install streamlit
+  687  streamlit run 04_salary_prediction_with_streamlit.py
+  688  python 05_NLP_toxic_comment_yt_dataset.py
+  689  python 05_NLP_toxic_comment_yt_dataset.py
+  690  python 05_NLP_toxic_comment_yt_dataset.py
+  691  python 06_training_model_for_yt_comments.py
+  692  python 06_training_model_for_yt_comments.py
+  693  python 06_training_model_for_yt_comments.py
+  694  python 06_training_model_for_yt_comments.py
+  695  python 06_training_model_for_yt_comments.py
+  696  streamlit run 07_yt_comment_classifier\>streamlit.py
+  697  pyhton 08_recomendation_engine.py
+  698  python 08_recomendation_engine.py
+  699  python 08_recomendation_engine.py
+  700  streamlit run 10_recomendation_engine_streamlit.py
+  701  deactivate
+  702  source /Users/anupjaiswal/Desktop/PFSD-Udemy/project_code/05_data_science_projects/ds_env/bin/activate
+  703  deactivate
+  704  python3 -m venv .url
+  705  source .url/bin/activate
+  706  pwd
+  707  pip install flask
+  708  pip install --upgrade pip
+  709  pip freeze requirements.txt
+  710  flast run app.py
+  711  flask run app.py
+  712  flask run
+  713  flask run app.py
+  714  flask run
+  715  flask run
+  716  flask run
+  717  flask run
+  718  flask run
+  719  flask run
+  720  flask run
+  721  flask run
+  722  flask run
+  723  flask run
+  724  deactivate
+  725  pwd
+  726  python -u "/Users/anupjaiswal/Desktop/PFSD-Udemy/multithreading/threading_01.py"
+  727  source /Users/anupjaiswal/Desktop/PFSD-Udemy/project_code/06_url_shortner/.url/bin/activate
+  728  source /Users/anupjaiswal/Desktop/PFSD-Udemy/project_code/06_url_shortner/.url/bin/activate
+  729  python3 threading_01.py
+  730  python 02_multiprocessing.py
+  731  python 03_gil_threading.py
+  732  python 03_gil_threading.py
+  733  deactivate
+  734  python3 03_gil_threading.py
+  735  python 04_git_multiprocessing.py
+  736  python 04_git_multiprocessing.py
+  737  python3 05_thread_one.py
+  738  python3 06_thread_two.py
+  739  python3 06_thread_two.py
+  740  python3 m venv .thrd
+  741  python3 -m venv .thrd
+  742  source .thrd/bin/activate
+  743  pip install requests
+  744  pip install --upgrade pip
+  745  python 07_thread_download.py
+  746  python 08_thread_lock.py
+  747  python 08_thread_lock.py
+  748  python 09_process_one.py
+  749  python 09_process_one.py
+  750  python 09_process_one.py
+  751  python 10_process_two.py
+  752  python 10_process_two.py
+  753  python 10_process_two.py
+  754  python 10_process_two.py
+  755  python 11_process_queue.py
+  756  python 12_process_value.py
+  757  python 12_process_value.py
+  758  python 12_process_value.py
+  759  python 12_process_value.py
+  760  source /Users/anupjaiswal/Desktop/PFSD-Udemy/project_code/06_url_shortner/.url/bin/activate
+  761  deactivate
+  762  pwd
+  763  python3 -m venv .demo
+  764  source .demo/bin/activate
+  765  pip install phonenumbers
+  766  pip install --upgrade pip
+  767  pip install geocoder
+  768  pwd
+  769  python phone_location_check.py
+  770  python phone_location_check.py
+  771  python phone_location_check.py
+  772  python phone_location_check.py
+  773  python phone_location_check.py
+  774  pip uninstall geocoder
+  775  python phone_location_check.py
+  776  python phone_location_check.py
+  777  python phone_location_check.py
+  778  source /Users/anupjaiswal/Desktop/PFSD-Udemy/.demo/bin/activate
+  779  python 01_basic.py
+  780  python 01_basic.py
+  781  python 01_basic.py
+  782  python 02_async_main.py
+  783  python 02_async_main.py
+  784  dea
+  785  deactivate
+  786  python3 -m venv .async
+  787  source .async/bin/activate
+  788  pip install aiohttp
+  789  pip install --upgrade pip
+  790  pwd
+  791  python 03_async_http.py
+  792  python 03_async_http.py
+  793  python 04_thread_async.py
+  794  python 04_thread_async.py
+  795  python 05_process_async.py
+  796  python 05_process_async.py
+  797  python 06_bg_worker.py
+  798  python 06_bg_worker.py
+  799  python 06_bg_worker.py
+  800  python 07_daemon.py
+  801  python 08_non_daemon.py
+  802  python -m cProfile -s time 08_non_daemon.py
+  803  python -m cProfile -s cumtime 08_non_daemon.py
+  804  python -m cProfile -o output.prof 08_non_daemon.py
+  805  pip install snakeviz
+  806  pip install gprof2dot
+  807  snakeviz output.prof\n
+  808  gprof2dot -f pstats output.prof | dot -Tpng -o profile.png
+  809  pip install gprof2dot\ngprof2dot -f pstats output.prof | dot -Tpng -o profile.png\n
+  810  python 09_race_condition.py
+  811  python 09_race_condition.py
+  812  python 09_race_condition.py
+  813  python 09_race_condition.py
+  814  python 09_race_condition.py
+  815  python 10_deadlock.py
+  816  python 10_deadlock.py
+  817  deactivate
+  818  python -u "/Users/anupjaiswal/Desktop/PFSD-Udemy/14_pydentic/01_basics/first_model.py"
+  819  source /Users/anupjaiswal/Desktop/PFSD-Udemy/14_pydentic/.pydntc/bin/activate
+  820  source /Users/anupjaiswal/Desktop/PFSD-Udemy/14_pydentic/.pydntc/bin/activate
+  821  python phone_location_check.py
+  822  deactivate
+  823  source .demo/bin/activate
+  824  python phone_location_check.py
+  825  python phone_location_check.py
+  826  python phone_location_check.py
+  827  python phone_location_check.py
+  828  python phone_location_check.py
+  829  python phone_location_check.py
+  830  python phone_location_check.py
+  831  deactivate
+  832  source /Users/anupjaiswal/Desktop/PFSD-Udemy/14_pydentic/.pydntc/bin/activate
+  833  /Users/anupjaiswal/Desktop/PFSD-Udemy/14_pydentic/.pydntc/bin/python
+  834  source /Users/anupjaiswal/Desktop/PFSD-Udemy/14_pydentic/.pydntc/bin/activate
+  835  pwd
+  836  python3 -m venv .pydntc
+  837  source .pydntc/bin/activate
+  838  pip install --upgrade pip
+  839  pip install pydantic
+  840  mkdir 01_basics
+  841  pwd
+  842  cd 01_basics
+  843  touch first_model.py
+  844  python first_model.py
+  845  python product_model.py
+  846  python product_model.py
+  847  python 03_field_example.py
+  848  python 03_field_example.py
+  849  python 03_field_example.py
+  850  python 03_field_example.py
+  851  python 03_field_example.py
+  852  python 03_field_example.py
+  853  python 03_field_example.py
+  854  pws
+  855  pwd
+  856  python 06_computed_property.py
+  857  python 08_nested_model.py
+  858  python 08_nested_model.py
+  859  python 08_nested_model.py
+  860  python 09_self_referencing_model.py
+  861  python 09_self_referencing_model.py
+  862  cd ..
+  863  mkdir 02_serialization
+  864  cd 02_serialization
+  865  touch 01_serial.py
+  866  python 01_serial.py
+  867  python 01_serial.py
+  868  python 01_serial.py
+  869  python 01_serial.py
+  870  python 01_serial.py
+  871  python 01_serial.py
+  872  pwd
+  873  node -v
+  874  npx create-expo-app JaldiKart
+  875  npm install -g npm@11.6.0
+  876  cd JaldiKart
+  877  npm run androind
+  878  npm run android
+  879  npm start
+  880  npm install nativewind tailwindcss\nnpx tailwindcss init\n
+  881  npm install @react-navigation/native\nnpm install react-native-screens react-native-safe-area-context react-native-gesture-handler react-native-reanimated react-native-vector-icons\nnpm install @react-navigation/native-stack\n
+  882  ls -la
+  883  npx expo start -c
+  884  npx expo start
+  885  java --versionb
+  886  java --version
+  887  adb --version
+  888  adb -version
+  889  brew install android-platform-tools
+  890  sudo xcodebuild -license accept\n
+  891  xcode-select --install
+  892  brew install android-platform-tools
+  893  adb version
+  894  adb devices\n
+  895  adb shell
+  896  adb
+  897  adb --version
+  898  node -v
+  899  cd Desktop/React-Native
+  900  npx create-expo-app@latest
+  901  cd Awesome01
+  902  npm run android
+  903  brew install node
+  904  brew install watchman
+  905  sudo gem install cocoapods
+  906  sudo gem install cocoapods
+  907  java --version
+  908  brew install openjdk@17
+  909  ~/.zshrc
+  910  nano ~/.zshrc
+  911  source ~/.zshrc
+  912  java -version
+  913  java_home -V
+  914  jset\n
+  915  adb --version
+  916  pwd
+  917  cd ..
+  918  pwd
+  919  npx react-native init awesome01
+  920  npx react-native init awesome01 --legacy-peer-deps\n
+  921  npm cache clean --force\nnpx react-native init awesome01
+  922  npx react-native init awesome01
+  923  npx react-native init awesome01 --pm=yarn
+  924  npx react-native init awesome01 --version 0.81.4 --pm=yarn
+  925  adb --version
+  926  /Users/anupjaiswal/Desktop/React-Native/Awesome01/node_modules/.generated/launchPackager.command ; exit;
+  927  pwd
+  928  npx @react-native-community/cli@latest init Awesome01
+  929  cd Awesome01
+  930  npx react-native run-ios
+  931  npx react-native run-android
+  932  npx react-native run-android
+  933  whoami
+  934  npx react-native run-android
+  935  npx react-native run-android
+  936  npx react-native run-ios
+  937  ls /Users/anupjaiswal/Library/Android/sdk
+  938  nano ~/.zshrc
+  939  source ~/.zshrc\n
+  940  npx react-native run-android
+  941  cat /Users/anupjaiswal/Desktop/React-Native/Awesome01/android/local.properties\n
+  942  cat /Users/anupjaiswal/Desktop/React-Native/Awesome01/android/local.properties\n
+  943  npx react-native run-android
+  944  npm install --save-dev typescript @types/react @types/react-native\n
+  945  npx react-native start --reset-cache\n
+  946  npx react-native start --reset-cache
+  947  # Find the process using port 8081\nlsof -i :8081\n
+  948  git add .
+  949  git commit -m "Basic Test App by using React-Native CLI"
+  950  git remote add origin https://github.com/anupjais/React-Native.git
+  951  git branch -M main
+  952  git push -u origin main
+  953  git push --force origin main
+  954  git filter-repo --path React-Native --invert-paths\n
+  955  npx @react-native-community/cli@latest init Styler02
+  956  cd Styler02
+  957  npx react-native run-ios
+  958  npx react-native run-android
+  959  npx react-native run-android
+  960  exit
+  961  /Users/anupjaiswal/Desktop/React-Native/Awesome01/node_modules/.generated/launchPackager.command ; exit;
+  962  /Users/anupjaiswal/Desktop/React-Native/Styler02/node_modules/.generated/launchPackager.command ; exit;
+  963  pwd
+  964  cd Styler02
+  965  ls
+  966  ls
+  967  npx react-native run-ios
+  968  npx react-native run-android
+  969  npx react-native run-android
+  970  npx react-native run-android
+  971  npx react-native run-ios
+  972  npx react-native run-ios
+  973  npx react-native run-android
+  974  npx react-native run-android
+  975  npx react-native run-ios
+  976  npm install react-native-safe-area-context\n
+  977  /Users/anupjaiswal/Desktop/React-Native/Styler02/node_modules/.generated/launchPackager.command ; exit;
+  978  pwd
+  979  cd Styler02
+  980  cd android
+  981  ./gradlew assembleDebug
+  982  android/app/build/outputs/apk/debug/Styler.apk
+  983  android/app/build/outputs/apk/debug/app-debug.apk
+  984  cd android\n./gradlew clean\ncd ..\nnpx react-native bundle --platform android --dev false --entry-file index.js --bundle-output android/app/src/main/assets/index.android.bundle --assets-dest android/app/src/main/res\ncd android\n./gradlew assembleDebug\n
+  985  adb devices
+  986  adb devices
+  987  adb devices
+  988  ./gradlew assembleRelease
+  989  adb devices
+  990  android/app/build/outputs/apk/release/app-release.apk
+  991  adb devices
+  992  adb install android/app/build/outputs/apk/release/app-release.apk
+  993  adb install android/app/build/outputs/apk/release/app-release.apk
+  994  adb -s 1361863101000MO install android/app/build/outputs/apk/release/app-release.apk
+  995  android/app/build/outputs/apk/release/app-release.apk\n
+  996  ls android/app/build/outputs/apk/debug/
+  997  ls app/build/outputs/apk/debug/
+  998  adb -s 1361863101000MO install android/app/build/outputs/apk/debug/app-debug.apk\n
+  999  adb -s 1361863101000MO install app/build/outputs/apk/debug/app-debug.apk\n
+ 1000  /Users/anupjaiswal/Desktop/React-Native/Styler02/node_modules/.generated/launchPackager.command ; exit;
+ 1001  react-native run-android
+ 1002  npm react-native run-android
+ 1003  npm run-android
+ 1004  npm run android
+ 1005  npm run ios
+ 1006  echo "# RN_Styler" >> README.md\ngit init\ngit add README.md\ngit commit -m "first commit"\ngit branch -M main\ngit remote add origin https://github.com/anupjais/RN_Styler.git\ngit push -u origin main
+ 1007  git add .
+ 1008  git commit -m "This is the "Integrate card components into main App layout\n\nAdded FlatCards, ElevatedCard, and FancyCard to App.js, wrapped them with SafeAreaView and ScrollView to ensure proper layout and vertical scrolling. This sets up the main UI structure for card-based sections.\n"\n\n\n\n"
+ 1009  git remote add origin https://github.com/anupjais/RN_Styler.git\ngit branch -M main\ngit push -u origin main
+ 1010  git init\ngit add .\ngit commit -m "chore: initial project setup with .gitignore and base App structure"\n
+ 1011  git checkout -b feature/cards-ui
+ 1012  git rm -r --cached node_modules\ngit rm -r --cached android/build\ngit rm -r --cached ios/build\ngit rm -r --cached .env\n
+ 1013  git ls-files
+ 1014  git rm --cached android/app/debug.keystore\ngit rm --cached ios/.xcode.env\ngit rm --cached ios/Pods -r\ngit rm --cached android/app/build -r\n
+ 1015  git add .\ngit commit -m "chore: remove sensitive files and prevent tracking build outputs"\ngit push origin main\n
+ 1016  git status\ngit ls-files
+ 1017  git rm --cached android/app/debug.keystore\ngit rm --cached ios/.xcode.env
+ 1018  git add .\ngit commit -m "chore: remove sensitive environment files from repo"\ngit push origin feature/cards-ui\n
+ 1019  git status
+ 1020  npm rum android
+ 1021  npm rum android
+ 1022  npm run ios
+ 1023  git status
+ 1024  git init
+ 1025  git add .
+ 1026  git commit -m "feat: add ActionCards component with blog card layout\n\n- Displays header, image, body text, and footer buttons\n- Android-compatible image rendering\n- Responsive card layout with elevation and shadows\n- Separate TouchableOpacity buttons for "Read More" and "Follow Me"\n"
+ 1027  git commit -m "feat: add ActionCards component with blog card layout" \\n               -m "Displays header, image, body text, and footer buttons" \\n               -m "Android-compatible image rendering and responsive layout" \\n               -m "Separate TouchableOpacity buttons for Read More and Follow Me"\n
+ 1028  git remote add origin https://github.com/anupjais/PricTechnology.git\ngit branch -M main\ngit push -u origin main
+ 1029  git push
+ 1030  npm run android
+ 1031  npm run android
+ 1032  pwd
+ 1033  cd Styler02
+ 1034  git add .
+ 1035  git commit -m "Read data from json"
+ 1036  git push -u origin main
+ 1037  main -> main\nbranch 'main' set up to track 'origin/main'.
+ 1038  pwd
+ 1039  npx react-native init PasswordGen03
+ 1040  history
+anupjaiswal@MBP React-Native % 
