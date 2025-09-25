@@ -1,0 +1,16 @@
+Export an application (React-Native apk)
+1.   cd android
+    ./gradlew assembleRelease
+2.   android/app/build/outputs/apk/release/app-release.apk
+3.   adb devices
+4.   ls android/app/build/outputs/apk/release/
+     ls android/app/build/outputs/apk/debug/
+5.   Either share it using your sharing app/website
+     OR, "adb -s 1361800MO install android/app/build/outputs/apk/release/app-release.apk" and wait for
+    '''
+      Performing Streamed Install Success
+    ''', message
+
+
+Your device id might be : 1361800MO
+
