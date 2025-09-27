@@ -1,0 +1,22 @@
+      1st Way
+#!/bin/bash
+# restart-metro.sh
+
+# Find and kill any process on port 8081
+PID=$(lsof -t -i :8081)
+
+if [ ! -z "$PID" ]; then
+  echo "Killing existing Metro process on port 8081 (PID: $PID)..."
+  kill -9 $PID
+fi
+
+# Start Metro
+echo "Starting Metro bundler..."
+npx react-native start
+
+
+      2nd Way
+./restart-metro.sh &
+
+      3rd Way
+kill -9 $(lsof -t -i :8081 2>/dev/null) && npx react-native start
