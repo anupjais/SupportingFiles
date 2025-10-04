@@ -29,8 +29,9 @@ or
 
 
 
-local.properties
-/Users/anupjaiswal/Library/Android/sdk
+local.properties  // at android folder as a file
+sdk.dir = /Users/anupjaiswal/Library/Android/sdk
+
 
 
 Pre-requisite
