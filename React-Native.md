@@ -18,22 +18,32 @@
 4. npm run android
 
           4th WAY
-1. ```sh
-   npx @react-native-community/cli@latest init ``` MyApp
-2. Do you want to install CocoaPods now? Needed for running iOS project › (y/N)
-3. cd MyApp
+1.
+   ```sh
+   npx @react-native-community/cli@latest init
+   ```
+   MyApp
+3. Do you want to install CocoaPods now? Needed for running iOS project › (y/N)
+4. cd MyApp
    # for ios
-4. ```sh
-npx react-native run-ios ``` or 
+5.
+```sh
+npx react-native run-ios
+``` 
+or 
 # for android
 ```sh
-npx react-native run-android ```
+npx react-native run-android 
+```
 or
-4. ```sh
-npm run ios ```
+4. 
+```sh
+npm run ios 
+```
  or
 ```sh 
-npm android ```
+npm android 
+```
 
 
 
