@@ -11,13 +11,13 @@
 3. cd new-app
 4. npm run android
 
-          3rd WAY
+   3rd WAY
 1. npx react-native@latest init awesome
 2. What is your app named? new-app
 3. cd new-app
 4. npm run android
 
-          4th WAY
+   4th WAY
 1.
    ```sh
    npx @react-native-community/cli@latest init
