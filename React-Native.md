@@ -47,10 +47,13 @@ npm android
 
 
 
-
-
-local.properties  // at android folder as a file
+ // at android folder as a file
+```sh
+local.properties
+```
+```sh
 sdk.dir = /Users/anupjaiswal/Library/Android/sdk
+```
 
 
 
