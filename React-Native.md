@@ -65,8 +65,9 @@ Pre-requisite
 
 
 ** install for the type declaration for the "react-native-vector-icons"
+```sh
 npm install --save-dev @types/react-native-vector-icons
-
+```
 
 
 
