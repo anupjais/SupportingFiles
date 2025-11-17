@@ -112,6 +112,17 @@ ENV PORT=3000
 CMD ["nginx", "-g", "daemon off;"]
 ```
 
+- Step-3 Modify/Update vite.config.js with
+```
+export default defineConfig({
+    server: {
+        host: "0.0.0.0",
+        port: 5173,
+    },
+    plugins: [react()],
+});
+```
+
 # For docker-compose.yml
 ```
 version: "3.8"
@@ -158,4 +169,9 @@ volumes:
 networks:
   my-custom-network:
     driver: bridge
+```
+
+# Run on terminal
+```
+docker compose up
 ```
