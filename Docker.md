@@ -1,3 +1,10 @@
+# Frontend by Vite
+```
+npm create vite@latest
+```
+- Follow the processes
+
+
 ## Create a file in a main directory
 ```
 Dockerfile
