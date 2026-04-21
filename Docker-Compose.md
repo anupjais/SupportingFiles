@@ -175,3 +175,11 @@ networks:
 ```
 docker compose up
 ```
+# Run on terminal in detached mode
+```
+docker compose up -d
+```
+# To kill the detached docker-image
+```
+docker compose down
+```
