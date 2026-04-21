@@ -3,6 +3,7 @@
 ```
 npm init -y
 ```
+: Means all selected or default select 
 
 - Step-2: create a file into the root directory
 ```
@@ -12,6 +13,10 @@ index.js
 - Step-3: Install express dependencies  
 ```
 npm install express
+```
+### or
+```
+npm i express
 ```
 
 ### Write this much in index.js
@@ -87,12 +92,11 @@ docker build -t express-app .
 docker run -p 4000:3000 -e PORT=3000 --rm express-app
 ```
 ### or
-## To run 
 ```
 docker run -p 4000:3000 --env-file .env --rm express-app
 ```
 
-## Open in browser
+## Fire/Lunch the browser and paste the url
 ```
 http://127.0.0.1:4000/
 ```
