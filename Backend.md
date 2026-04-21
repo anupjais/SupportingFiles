@@ -3,28 +3,30 @@
 npm init
 ```
 Do whatever the options
-        {
-            "name": "backend",
-            "version": "1.0.0",
-            "description": "A Basic app to deployee my source code",
-            "main": "index.js",
-            "scripts": {
-              "test": "echo \"Error: no test specified\" && exit 1"
-            },
-            "keywords": [
-              "node",
-              "chai"
-            ],
-            "author": "anup nath jaiswal",
-            "license": "ISC"
-        }
-
-make a "start": "node index.js" inside "scripts",
+```
+{
+    "name": "backend",
+    "version": "1.0.0",
+    "description": "A Basic app to deployee my source code",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+      "node",
+      "chai"
+    ],
+    "author": "anup nath jaiswal",
+    "license": "ISC"
+}
+```
+- make a "start": "node index.js" inside "scripts",
 e.g
 ```
- "scripts": {
-              "start": "node index.js"
-            },
+ "scripts":
+{
+   "start": "node index.js"
+},
 ```
 
 ```
