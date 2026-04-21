@@ -10,7 +10,7 @@ https://www.djangoproject.com/download/
 https://jinja.palletsprojects.com/en/stable/
 ```
 
-## Steps for Django project
+## Django project Setups
 ```
 pip install uv
 ```
@@ -31,11 +31,11 @@ django-admin startproject chaiAurChai
 ```
 cd chaiAurChai
 ```
-- To run
+## To run
 ```
 python manage.py runserver
 ```
-## or 
+### or 
 ```
 python manage.py runserver 8001
 ```
@@ -47,7 +47,7 @@ python manage.py runserver 8001
 - static: for CSS, JS
 
 
-# Setting
+# Settings
 ```
 import os
 ```
@@ -71,7 +71,7 @@ def home(request):
 
 
 
-### Process to insert Tailwind inside Django
+### Insert Tailwind with Django
 ```
 uv pip install django-tailwind
 ```
@@ -101,7 +101,7 @@ python manage.py tailwind install
 ```
 python manage.py tailwind start
 ```
-:  in other tab
+- In other Tab of Terminal
 ```
 python manage.py runserver
 ```
@@ -125,7 +125,7 @@ python manage.py runserver 8001
 ```
 
 
-- To create super-user
+## To enable/create super-user
 ```
 python manage.py createsuperuser
 ```
