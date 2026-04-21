@@ -1,5 +1,7 @@
-    First Way
+## First Way
+```
 npm init
+```
 Do whatever the options
         {
             "name": "backend",
@@ -19,9 +21,21 @@ Do whatever the options
 
 make a "start": "node index.js" inside "scripts",
 e.g
+```
  "scripts": {
               "start": "node index.js"
             },
+```
 
+```
 npm install express
+```
+
+```
 npm i dotenv
+```
+## or
+```
+npm i express dotenv
+```
+
