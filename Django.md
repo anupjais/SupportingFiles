@@ -10,16 +10,18 @@ https://www.djangoproject.com/download/
 https://jinja.palletsprojects.com/en/stable/
 ```
 
-## Steps
+## Steps for Django project
 ```
-pip install uv // Install it
+pip install uv
 ```
+-  Install it
 ```
 uv venv
 ```
 ```
-source .venv/bin/activate // Activate with: // For mac
+source .venv/bin/activate
 ```
+-  Activate with: For mac
 ```
 uv pip install Django 
 ```
