@@ -1,88 +1,112 @@
-          React Native App Development
-  1st WAY
-1. npx react-native init appname
-2. cd appname 
-3. npx react-native run-android
-// Note: from the node 23.0.0 the "init" is depricated and it's not working
+# React Native
 
-  2nd WAY
-1. npx create-expo-app@latest
-2. What is your app named? new-app
-3. cd new-app
-4. npm run android
+## Expo
 
-   3rd WAY
-1. npx react-native@latest init awesome
-2. What is your app named? new-app
-3. cd new-app
-4. npm run android
+### Create App
 
-   4th WAY
-1.
-   ```sh
-   npx @react-native-community/cli@latest init
-   ```
-   MyApp
-3. Do you want to install CocoaPods now? Needed for running iOS project › (y/N)
-4. cd MyApp
-   # for ios
-5.
-```sh
-npx react-native run-ios
-``` 
-or 
-# for android
-```sh
-npx react-native run-android 
+```bash
+npx create-expo-app@latest
 ```
+
+### Reset Project
+
+```bash
+npm run reset-project
+```
+
+### Install Expo Dev Client
+
+```bash
+npx expo install expo-dev-client
+```
+
+### Run Project
+
+```bash
+npx expo start
+```
+
+---
+
+## React Native CLI
+
+### Create App
+
+```bash
+npx @react-native-community/cli@latest init MyApp
+```
+
+### Enter Project
+
+```bash
+cd MyApp
+```
+
+### Run Android
+
+```bash
+npm run android
+```
+
 or
-4. 
-```sh
-npm run ios 
-```
- or
-```sh 
-npm android 
+
+```bash
+npx react-native run-android
 ```
 
+### Run iOS
 
-
- // at android folder as a file
-```sh
-local.properties
-```
-```sh
-sdk.dir = /Users/anupjaiswal/Library/Android/sdk
+```bash
+npm run ios
 ```
 
+or
 
+```bash
+npx react-native run-ios
+```
 
-Pre-requisite
-1. jdk 17-20
-2. node v 20.0.0
+---
 
+## Android `local.properties`
 
+File:
 
+```text
+android/local.properties
+```
 
-** install for the type declaration for the "react-native-vector-icons"
-```sh
+```properties
+sdk.dir=/Users/<username>/Library/Android/sdk
+```
+
+---
+
+## Prerequisites
+
+```text
+Node.js
+JDK
+Android Studio
+Xcode (iOS)
+```
+
+### Check Node
+
+```bash
+node -v
+```
+
+### Check Java
+
+```bash
+java -version
+```
+
+---
+
+## Vector Icons Types
+
+```bash
 npm install --save-dev @types/react-native-vector-icons
 ```
-
-
-
-Run instructions for Android:
-    • Have an Android emulator running (quickest way to get started), or a device connected.
-    • cd "/Users/anupjaiswal/Desktop/ReacNative/appname" && npx react-native run-android
-  
-  Run instructions for iOS:
-    • cd "/Users/anupjaiswal/Desktop/ReacNative/appname"
-    
-    • npx react-native run-ios
-    - or -
-    • Open appname/ios/appname.xcodeproj in Xcode or run "xed -b ios"
-    • Hit the Run button
-    
-  Run instructions for macOS:
-    • See https://aka.ms/ReactNativeGuideMacOS for the latest up-to-date instructions.
-    
