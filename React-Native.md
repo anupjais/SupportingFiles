@@ -20,10 +20,100 @@ npm run reset-project
 npx expo install expo-dev-client
 ```
 
-### Run Project
+### Install Dependencies
+
+```bash
+npm install
+```
+
+### Start Development Server
 
 ```bash
 npx expo start
+```
+
+### Run Android
+
+```bash
+npx expo run:android
+```
+
+### Run iOS
+
+```bash
+npx expo run:ios
+```
+
+---
+
+## Expo Development Build
+
+Install the development client:
+
+```bash
+npx expo install expo-dev-client
+```
+
+Create and run a development build:
+
+### Android
+
+```bash
+npx expo run:android
+```
+
+### iOS
+
+```bash
+npx expo run:ios
+```
+
+Start the development server:
+
+```bash
+npx expo start --dev-client
+```
+
+---
+
+## Expo Production Build
+
+Build a production app using EAS:
+
+### Install EAS CLI
+
+```bash
+npm install -g eas-cli
+```
+
+### Login
+
+```bash
+eas login
+```
+
+### Configure EAS
+
+```bash
+eas build:configure
+```
+
+### Android Production Build
+
+```bash
+eas build --platform android
+```
+
+### iOS Production Build
+
+```bash
+eas build --platform ios
+```
+
+### Android + iOS
+
+```bash
+eas build --platform all
 ```
 
 ---
@@ -42,13 +132,19 @@ npx @react-native-community/cli@latest init MyApp
 cd MyApp
 ```
 
+### Start Metro
+
+```bash
+npx react-native start
+```
+
 ### Run Android
 
 ```bash
 npm run android
 ```
 
-or
+or:
 
 ```bash
 npx react-native run-android
@@ -60,7 +156,7 @@ npx react-native run-android
 npm run ios
 ```
 
-or
+or:
 
 ```bash
 npx react-native run-ios
@@ -68,7 +164,15 @@ npx react-native run-ios
 
 ---
 
-## Android `local.properties`
+## Android
+
+### Check Connected Devices
+
+```bash
+adb devices
+```
+
+### Android SDK Configuration
 
 File:
 
@@ -77,7 +181,15 @@ android/local.properties
 ```
 
 ```properties
-sdk.dir=/Users/<username>/Library/Android/sdk
+sdk.dir=/Users/anupjaiswal/Library/Android/sdk
+```
+
+### Clean Android Build
+
+```bash
+cd android
+./gradlew clean
+cd ..
 ```
 
 ---
@@ -88,10 +200,10 @@ sdk.dir=/Users/<username>/Library/Android/sdk
 Node.js
 JDK
 Android Studio
-Xcode (iOS)
+Xcode
 ```
 
-### Check Node
+### Check Node.js
 
 ```bash
 node -v
@@ -101,12 +213,4 @@ node -v
 
 ```bash
 java -version
-```
-
----
-
-## Vector Icons Types
-
-```bash
-npm install --save-dev @types/react-native-vector-icons
 ```
